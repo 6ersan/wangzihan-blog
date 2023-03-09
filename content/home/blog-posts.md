@@ -20,7 +20,7 @@ content:
     author: ''
     exclude_featured: false
   archive:
-    enable: false
+    enable: true
 design:
   columns: '1'
   view: card
